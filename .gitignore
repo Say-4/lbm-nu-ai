@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Local env files (Kunci API rahasia Anda tersimpan di sini)
+.env*.local
+.env
