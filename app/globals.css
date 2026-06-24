@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f8fafc; /* Latar belakang abu-abu sangat terang */
+  color: #1e293b;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+/* Font khusus untuk teks kitab Arab agar rapi dan tebal */
+.font-arab {
+  font-family: 'Amiri', serif;
+  direction: rtl;
+}
